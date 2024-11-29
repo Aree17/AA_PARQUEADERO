@@ -1,5 +1,5 @@
 # Sistema de gestión de parqueaderos
-![parqueadero](https://github.com/user-attachments/assets/a333af47-cb73-4305-bded-a6215b9dadd7)
+![parqueadero_A](https://github.com/user-attachments/assets/43c0dab5-64e7-4a0a-a966-efe1c8a49740)
 
 ## Introducción
 Este módulo tiene como finalidad gestionar un parqueadero que está compuesto por múltiples pisos. Cada piso tiene varias plazas de parqueo. Los vehículos pueden ser de diferentes tipos: automóviles, motocicletas y bicicletas. Todos comparten características comunes como matrícula, modelo y color, pero tienen atributos específicos según el tipo.
