@@ -6,6 +6,34 @@ Este módulo tiene como finalidad gestionar un parqueadero que está compuesto p
 Los usuarios del parqueadero pueden ser clientes regulares o visitantes. Los clientes regulares tienen una suscripción activa y un método de pago asociado. Los visitantes pagan por las horas usadas.
 El sistema debe maneja reservas en plazas específicas para clientes regulares. Los empleados del parqueadero se dividen en supervisores y cajeros, encargados de supervisar las operaciones, generar facturas y cobrar lo requerido.
 
+## Clases usadas
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- **[1. ]()**
+- 
+  
+
 ## Cambios realizados
 En comparación al primer diagrama UML realizado, el diagrama actual tiene algunas modificaciones que se explican a continuación. Para mayor comocidad se  ha dividido los cambios de acuerdo a su rol en el diagrama de clases:
 
@@ -19,5 +47,4 @@ En comparación al primer diagrama UML realizado, el diagrama actual tiene algun
 - En las clases Piso, Plaza y RentaPorHoras se eliminaron de uno a dos elementos.
 
 ### **3. Métodos**
-- La clase visitante adquiere un nuevo método.
-- Las clases Supervisor y Cajero sufren modificaciones en sus métodos.
+- Las clases Supervisor y Cajero, Factura y Ticket sufren modificaciones en sus métodos.
